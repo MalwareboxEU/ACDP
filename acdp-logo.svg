@@ -1,0 +1,11 @@
+        <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+          <!-- Four bars of decreasing height / intensity -->
+          <rect x="32"  y="56"  width="28" height="112" fill="#ffb454"/>
+          <rect x="72"  y="76"  width="28" height="92"  fill="#ffb454" opacity="0.78"/>
+          <rect x="112" y="100" width="28" height="68"  fill="#ffb454" opacity="0.56"/>
+          <rect x="152" y="128" width="28" height="40"  fill="#ffb454" opacity="0.34"/>
+          <!-- Baseline -->
+          <rect x="24" y="168" width="164" height="4" fill="#e8ecf2"/>
+          <!-- Priority marker dot above tallest bar -->
+          <circle cx="46" cy="40" r="8" fill="#3ad0a8"/>
+        </svg>
