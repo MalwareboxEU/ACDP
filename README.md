@@ -1,6 +1,7 @@
 <div align="center">
 
 # ACDP
+<img src="acdp-logo.svg" alt="drawing" width="200"/>
 
 ### Actor-Centric Defensive Prioritization
 
