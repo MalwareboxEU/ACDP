@@ -155,8 +155,11 @@ Malwarebox Research. https://acdp.malwarebox.eu
 
 ## License
 
-This methodology and its documentation are released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You may use, adapt, and redistribute it freely with attribution.
+Copyright © 2026 Robin Dost / Malwarebox
 
+This project is licensed under the Creative Commons Attribution 4.0 International License.
+
+SPDX-License-Identifier: CC-BY-4.0
 ---
 
 <div align="center">
@@ -164,5 +167,7 @@ This methodology and its documentation are released under [CC BY 4.0](https://cr
 **Malwarebox** · *In varietate concordia* 🇪🇺
 
 [Website](https://malwarebox.eu) · [Blog](https://blog.synapticsystems.de) · [Kraken](https://kraken.malwarebox.eu)
+
+
 
 </div>
